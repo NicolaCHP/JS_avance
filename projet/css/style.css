@@ -1,0 +1,68 @@
+#banderole{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    width: 100%;
+    
+    border-bottom: solid black;
+    
+}
+
+#banderole img{
+    width: 20%;
+    height: 20%;
+}
+
+body{
+    background-color:rgb(46, 43, 43);
+    margin:0;
+    padding:0;
+    font-family: "Optima", sans-serif	;
+}
+#container{
+    width:85%;
+    min-height:100%;
+    background-color: gray;
+    margin-top: 0%;
+    margin-left: 7.5%;
+
+    position: absolute;
+    
+}
+
+h1{
+    color: azure;
+    text-align: center;
+}
+
+.filmDescription img{
+    height: 300px;
+    width: 200px;
+}
+
+#main{
+    text-align: center;
+}
+
+.filmDescription{
+    
+    display:inline-block;
+    background-color: lightgoldenrodyellow;
+    width: 25%;
+    text-align: center;
+    margin: 5%;
+    border:10px solid black;
+    border-radius: 5%;
+}
+.filmDescription #titleFilm{
+    height: 70px;
+}
+
+.filmDescription .descr{
+    text-align: justify;
+}
+button#search{
+    border: 0px;
+    background: none;
+    font-size: xx-large;
+    color: aliceblue;
+}
